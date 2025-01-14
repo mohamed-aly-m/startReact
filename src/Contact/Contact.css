@@ -1,0 +1,29 @@
+#Contact{
+    /* background-color: #1ABC9C; */
+    font-family: "Montserrat", serif;
+    color: darkslategray;
+    align-items: center;
+}
+
+
+#Contact h2{
+    font-size: 50px;
+}
+
+
+.inputGroup input{
+    
+    border:white solid 0px;
+    outline: white;
+    font-size: 15px;
+    border-bottom: black dotted 1px;
+}
+
+
+
+.btn-S{
+    background-color: #1ABC9C !important;
+    
+    
+    
+}

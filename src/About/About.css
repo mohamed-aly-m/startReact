@@ -1,0 +1,15 @@
+#About{
+    background-color: #1ABC9C;
+    font-family: "Montserrat", serif;
+    color: white;
+    align-items: center;
+}
+
+
+#About h2{
+    font-size: 50px;
+}
+
+#About p{
+    font-size: 20px;
+}

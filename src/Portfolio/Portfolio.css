@@ -1,0 +1,11 @@
+#Portfolio{
+    /* background-color: #1ABC9C; */
+    font-family: "Montserrat", serif;
+    color: darkslategray;
+    align-items: center;
+}
+
+
+#Portfolio h2{
+    font-size: 50px;
+}

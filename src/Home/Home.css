@@ -1,0 +1,21 @@
+#Home{
+ background-color: #1ABC9C;
+ font-family: "Montserrat", serif;
+ 
+}
+
+
+#Home h1{
+    font-size: 60px;
+}
+
+#Home p{
+    font-size: 25px;
+}
+
+#Home img{
+    width: 300px;
+    height: 300px;
+}
+
+

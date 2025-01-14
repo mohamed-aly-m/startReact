@@ -1,0 +1,42 @@
+
+.cardCover{
+    transform: scale(1);
+    overflow: hidden;
+    transition: all .5s;
+}
+#cardM:hover .cardCover{
+    
+    background-color: rgba(26, 188, 156, .7) ;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    
+    
+    
+} 
+
+.CoverCard{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.boxCard{
+    background-color:  rgba(26, 188, 156, .8);
+    width: 80%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
